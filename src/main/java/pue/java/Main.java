@@ -10,6 +10,7 @@ public class Main {
         System.out.println("Esta es mi copia de trabajo");
         System.out.println("Hola Soy Fran :)");
         System.out.println("Hola Soy Paloma :)");
+        System.out.println("Hola Soy Paloma y yo no voy a mergear!)");
         System.out.println("Hola Soy Fran y la voy a liar parda!!!");
 
         for (int i = 1; i <= 5; i++) {
