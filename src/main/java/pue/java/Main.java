@@ -9,6 +9,7 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.println("Esta es mi copia de trabajo");
         System.out.println("Hola Soy Fran :)");
+        System.out.println("Hola Soy Paloma :)");
 
         for (int i = 1; i <= 5; i++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
